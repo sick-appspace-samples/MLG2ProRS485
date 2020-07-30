@@ -15,4 +15,4 @@ See manual of connected remote device with serial interface for further interfac
 specific description and device specific commands
 
 ### Topics
-Remote-Device, Communication, Acquisition, Sample, SICK-AppSpace
+Remote-Device, Communication, Sample, SICK-AppSpace, Serial, RS, RS-485, RS-232
