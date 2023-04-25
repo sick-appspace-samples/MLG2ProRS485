@@ -25,4 +25,4 @@ specific description and device specific commands
 
 ### Topics
 
-Remote-Device, Communication, Sample, SICK-AppSpace, Serial, RS, RS-485, RS-232
+remote-device, communication, sample, sick-appspace, serial, rs, rs-485, rs-232
